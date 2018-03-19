@@ -1,0 +1,11 @@
+---
+title: 'A New Home'
+date: 2007-08-12 00:00:00 
+tags: 
+layout: post
+---
+Another move of host. The site is now running on a server at [ASO](http://asmallorange.com/). I’ll hopefully be able to put a few projects up here that I’m working on once the configuration has been worked out.
+
+Stay tuned
+
+

@@ -1,0 +1,9 @@
+---
+title: 'Progress'
+date: 2007-08-12 00:00:00 
+tags: 
+layout: post
+---
+Well, the site seems to be working. I’ve got [TextPattern](http://www.textpattern.com/) installed to manage the site for now, but hopefully I’ll be able to start work on my own [CMS](http://en.wikipedia.org/wiki/Content_management_system) soon, although [Picfinity](http://sourceforge.net/projects/picfinity/) is currently taking up most of my time.
+
+I’m still waiting on [ASO](http://www.asmallorange.com/) to finish setting up PHP{4,5} so that I can get my [gallery](http://espadav8.co.uk/gallery/) online, currently it just errors :(

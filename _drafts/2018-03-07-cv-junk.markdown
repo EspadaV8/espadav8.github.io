@@ -1,0 +1,36 @@
+---
+title: 'CV junk'
+date: 2018-03-07 00:00:00 
+tags: 
+layout: post
+---
+## Previous positions
+
+* **Market Researcher** (09/2004 - 11/2004) - J4B Market Research Wilmslow, Cheshire  
+* **Shop Assistant/Trainee Supervisor** (1998 - 2002) - Sainsbury’s Manchester
+* **General Assistant** (1997) - Northern Executive Aviation (Unpaid)
+
+# Volunteer experience
+
+* Vice-President/Treasurer of Salisbury/Regent Road JCR
+* Library Assistant
+* Acting Prefect at break-times during A-Level
+* Contributed towards and helped to raise money for various funds/charities
+* Applying to Citizens Advice Bureaux to help as IT Support
+
+# Personal development
+* My interest in computers has led me to gain much experience in various operating systems;
+   * Microsoft Windows since version 3.1
+   * Linux including Gentoo, Red Hat, Mandrake, Slackware and others
+* Member of the Air Training Corps for 3 years
+
+# Awards received
+
+* Duke of Edinburgh award
+* Gliding Wings from the Air Training Corps
+
+# Education
+
+* Software and Electronic Engineering B Eng (Honours) (2000 - 2003) University of Leicester -
+* A-levels (1998 - 2000) Wilmslow High School
+GCSEs (1993 - 1998) Wilmslow High School

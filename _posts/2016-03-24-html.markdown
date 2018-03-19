@@ -1,0 +1,14 @@
+---
+title: 'HTML submit button values'
+date: 2016-03-24 00:00:00 
+tags: 
+layout: post
+---
+Early morning brain farts meant I wasn't able to work out how to detect which submit button was being pressed when a form was submitted. My Google-fu didn't turn up anything other than some poor looking JS solutions, turns out it's very easy.
+
+```html
+<button type="submit" name="action" value="approve">Approve</button>
+<button type="submit" name="action" value="decline">Decline</button>
+```
+
+Really, just needs a name and a value like any other HTML element. For some reason I thought that just having the value would magically make it work and appear as the value for `submit`, but nope, not without the name attribute.
